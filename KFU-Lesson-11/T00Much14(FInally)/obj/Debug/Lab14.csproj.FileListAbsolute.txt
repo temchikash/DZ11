@@ -1,7 +1,0 @@
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\T00Much14(FInally)\bin\Debug\T00Much14(FInally).exe.config
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\T00Much14(FInally)\bin\Debug\T00Much14(FInally).exe
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\T00Much14(FInally)\bin\Debug\T00Much14(FInally).pdb
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\T00Much14(FInally)\obj\Debug\Lab14.csproj.AssemblyReference.cache
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\T00Much14(FInally)\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\T00Much14(FInally)\obj\Debug\T00Much14(FInally).exe
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\T00Much14(FInally)\obj\Debug\T00Much14(FInally).pdb

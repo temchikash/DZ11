@@ -1,7 +1,0 @@
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\KFU-Lesson-12\bin\Debug\KFU-Lesson-12.exe.config
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\KFU-Lesson-12\bin\Debug\KFU-Lesson-12.exe
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\KFU-Lesson-12\bin\Debug\KFU-Lesson-12.pdb
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\KFU-Lesson-12\obj\Debug\T00Much13.csproj.AssemblyReference.cache
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\KFU-Lesson-12\obj\Debug\T00Much13.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\KFU-Lesson-12\obj\Debug\KFU-Lesson-12.exe
-C:\Users\Admin\Source\Repos\KFU-Lesson-12\KFU-Lesson-12\obj\Debug\KFU-Lesson-12.pdb
